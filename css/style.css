@@ -362,6 +362,7 @@ li{
     .fifth-section{
         padding-top: 0;
         flex-direction: column;
+        gap: 9rem;
     }
     .fifth-section h2,p{
         margin-left: 15px;
