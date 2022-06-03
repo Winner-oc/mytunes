@@ -327,6 +327,9 @@ li{
     .second-section-img{
         width: 100%;
     }
+    .second-section p{
+        margin-right: 25px;
+    }
     .card-img{
         position: relative;
         top: 85px;
@@ -358,7 +361,7 @@ li{
     }
     .fifth-section{
         padding-top: 0;
-        gap: 6.5rem;
+        flex-direction: column;
     }
     .fifth-section h2,p{
         margin-left: 15px;
